@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Aplicación para agendar citas veterianarias.
+
+https://bit.ly/32SR083
+
 ## Available Scripts
 
 In the project directory, you can run:
